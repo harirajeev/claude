@@ -17,3 +17,4 @@ Context engineering:
 
 Certification:
 - [Claud certified architect - Anthropic CCA](https://www.linkedin.com/pulse/anthropic-cca-exam-architecture-doc-jothiswaran-arumugam-pllse/?trackingId=5Zs6f%2BZCyLeisDJU5wXivw%3D%3D)
+- [CCA exam guide](https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773274827%2FClaude+Certified+Architect+%E2%80%93+Foundations+Certification+Exam+Guide.pdf)
