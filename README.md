@@ -17,6 +17,7 @@ Context engineering:
 - [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide?ref=blog.langchain.com#apply_patch)
 
 Harness Engineering:
+- [The Anatomy of an Agent Harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
 - [terminal-bench@2.0 Leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com)
 - [Improving Deep Agents with Harness Engineering](https://x.com/Vtrivedy10/status/2023805578561060992?s=20&ref=blog.langchain.com) 
 
