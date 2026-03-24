@@ -15,6 +15,8 @@ Context engineering:
 - [State of Context Engineering in 2026- Aurimas Griciūnas ](https://www.newsletter.swirlai.com/p/state-of-context-engineering-in-2026?utm_source=post-email-title&publication_id=1144171&post_id=191721101&utm_campaign=email-post-title&isFreemail=true&r=lguso&triedRedirect=true&utm_medium=email)
 - [Eval Engineering - Galileo](https://galileo.ai/eval-engineering-book/what-is-eval-engineering)
 - [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide?ref=blog.langchain.com#apply_patch)
+- [Claude-Prompting best practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+- [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/)
 
 Harness Engineering:
 - [The Anatomy of an Agent Harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
