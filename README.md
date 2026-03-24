@@ -14,6 +14,11 @@ Courses:
 Context engineering:
 - [State of Context Engineering in 2026- Aurimas Griciūnas ](https://www.newsletter.swirlai.com/p/state-of-context-engineering-in-2026?utm_source=post-email-title&publication_id=1144171&post_id=191721101&utm_campaign=email-post-title&isFreemail=true&r=lguso&triedRedirect=true&utm_medium=email)
 - [Eval Engineering - Galileo](https://galileo.ai/eval-engineering-book/what-is-eval-engineering)
+- [Codex Prompting Guide](https://developers.openai.com/cookbook/examples/gpt-5/codex_prompting_guide?ref=blog.langchain.com#apply_patch)
+
+Harness Engineering:
+- [terminal-bench@2.0 Leaderboard](https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com)
+- [Improving Deep Agents with Harness Engineering](https://x.com/Vtrivedy10/status/2023805578561060992?s=20&ref=blog.langchain.com) 
 
 Certification:
 - [Claud certified architect - Anthropic CCA](https://www.linkedin.com/pulse/anthropic-cca-exam-architecture-doc-jothiswaran-arumugam-pllse/?trackingId=5Zs6f%2BZCyLeisDJU5wXivw%3D%3D)
