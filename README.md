@@ -35,4 +35,8 @@ Claude design:
 - [Components of a coding agent-Sebastian Raschka](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 
 Karpathy
-- [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 
+- [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+Eval engineering
+- [Better Harness: A Recipe for Harness Hill-Climbing with Evals](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/)
+- [How we build evals for Deep Agents](https://blog.langchain.com/how-we-build-evals-for-deep-agents/)
