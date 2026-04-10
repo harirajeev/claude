@@ -38,5 +38,6 @@ Karpathy
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 Eval engineering
+- [Improving Deep Agents with harness engineering](https://blog.langchain.com/improving-deep-agents-with-harness-engineering/)
 - [Better Harness: A Recipe for Harness Hill-Climbing with Evals](https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/)
 - [How we build evals for Deep Agents](https://blog.langchain.com/how-we-build-evals-for-deep-agents/)
