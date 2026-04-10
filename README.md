@@ -32,6 +32,7 @@ Certification:
 Claude design:
 - [Orchestrating AI Agents with Claude Code CLI](https://hashtek-fusion.github.io/tech-articles/)
 - [Claude code memory explained](https://media.licdn.com/dms/image/v2/D4E22AQHTQoGKusAXVw/feedshare-shrink_800/B4EZ1kgr2jGYAc-/0/1775507783414?e=1777507200&v=beta&t=TqUUAYs6ZMVxDIQCYAD_LE1UlQf7PoA4EojLBaVhOSk)
+- [Components of a coding agent-Sebastian Raschka](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 
 Karpathy
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 
